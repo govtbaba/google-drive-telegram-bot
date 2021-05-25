@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1889894908:AAG-VEYLKN0XdsM4TV5qJ9qPecpUz0NMyBo"
+    APP_ID = "1801730"
+    API_HASH = "e22ab88c497d257424be90fb7549151f"
+    DATABASE_URL = "postgres://nefcnzywpuxdys:415cd457ae7d4b86ab3"
+    SUDO_USERS = "954801232 906349244" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/govtbaba"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
